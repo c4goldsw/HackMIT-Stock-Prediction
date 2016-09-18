@@ -14,3 +14,5 @@ Quite a few - ranging from setting up our node.js server, obtaining sentiment da
 
 ##Used Data:
 For our stock prices, we used Hourly Nasdaq market data for Facebook and Apple. For our sentiment data, we used sentiment data on theses stocks gathered and kindly provided by (late on a Saturday night) Pierce Crosby of StockTwits
+
+[Alt](https://raw.githubusercontent.com/c4goldsw/HackMIT-Stock-Prediction/master/AAPL_price.png)
