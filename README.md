@@ -1,4 +1,5 @@
-# HackMIT-Stock-Prediction
+# Recurrent Neural Networks for Stock Prediction
+HackMIT Project by Chris Goldsworthy, Danny Luo, Karan Grewal, SoYoung Park
 
 ##Inspiration
 We have an interest in neural networks and have heard of recurrent neural networks being used for stock price prediction. We then thought that we could try to augment past market data used to train stock prediction RNNs with sentiment data on those stocks.
@@ -15,6 +16,6 @@ Quite a few - ranging from setting up our node.js server, obtaining sentiment da
 ##Used Data:
 For our stock prices, we used Hourly Nasdaq market data for Facebook and Apple. For our sentiment data, we used sentiment data on theses stocks gathered and kindly provided by (late on a Saturday night) Pierce Crosby of StockTwits
 
-AAPL Price and prediction
+AAPL Price and prediction:
 
 ![Alt](https://raw.githubusercontent.com/c4goldsw/HackMIT-Stock-Prediction/master/AAPL_price.png)
